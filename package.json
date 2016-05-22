@@ -1,0 +1,23 @@
+{
+  "name": "arq",
+  "version": "0.1.0",
+  "description": "node.js implementation of arq backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rentzsch/node-arq.git"
+  },
+  "keywords": [
+    "arq",
+    "backup"
+  ],
+  "author": "Jonathan 'Wolf' Rentzsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rentzsch/node-arq/issues"
+  },
+  "homepage": "https://github.com/rentzsch/node-arq#readme"
+}
